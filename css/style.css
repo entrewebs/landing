@@ -37,13 +37,14 @@ body {
     margin-top: 105px;
     margin-left: -145px;
     text-align: center;
-
+    width: 300px;
+    height: 350px;
     transition: all 1000ms;
 }
 
 .header-content .logo {
     height: 100px;
-    width: 100px;
+
 }
 
 .title {
