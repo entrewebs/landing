@@ -1,0 +1,275 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cena",
+				"cena_gala_extra_id"
+			],
+			[
+				"ca",
+				"calcularImporte"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"a",
+				"action\tAttr"
+			],
+			[
+				"colsm",
+				"col-sm-6"
+			],
+			[
+				"col",
+				"col-sm-4"
+			],
+			[
+				"col-s",
+				"col-sm-2"
+			],
+			[
+				"sm",
+				"col-sm-3"
+			],
+			[
+				"di",
+				"display\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 119.0,
+		"last_filter": "Install",
+		"selected_items":
+		[
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ruben/Documents/102-uvtvieja/html/guvt/guvt_salvar_inscripcion.jsp",
+		"/Users/ruben/Documents/102-uvtvieja/html/tpv.jsp",
+		"/Users/ruben/Downloads/appinventordb/main.py",
+		"/Users/ruben/Downloads/appinventordb/index.yaml",
+		"/Users/ruben/Documents/103-reservadeaulas/config.inc.php",
+		"/Users/ruben/Documents/100-cmps/lib_cmps.php",
+		"/Users/ruben/Documents/100-cmps/html/admision.html",
+		"/Users/ruben/Documents/100-cmps/html/espaciosprivados.en.html",
+		"/Users/ruben/Documents/100-cmps/html/formulario_reservas.html",
+		"/Users/ruben/Downloads/appinventordb/index.html",
+		"/Users/ruben/Downloads/appinventordb/app.yaml",
+		"/Users/ruben/Downloads/JukeboxShortcut/JukeboxShortcut.vbs",
+		"/Volumes/Usuarios/VAPPS/iconos/app_list_20180926.txt",
+		"/Users/ruben/Downloads/appinventordb/main.pyc",
+		"/Users/ruben/Documents/102-uvtvieja/data/guvt_sql.xml",
+		"/Users/ruben/Documents/102-uvtvieja/html/guvt/guvt_salvar_sarteco.jsp",
+		"/Users/ruben/Documents/102-uvtvieja/html/sarteco.html",
+		"/Users/ruben/Documents/104-teruel-aux/apl/salvar_horario.jsp",
+		"/Users/ruben/Documents/104-teruel-aux/apl/horario.jsp",
+		"/Users/ruben/Downloads/pandora_unizar/modulos/check_discos.pl",
+		"/Users/ruben/Downloads/pandora_unizar/edit-nom.sh",
+		"/Users/ruben/Downloads/pandora_unizar/pandora_agent.conf_plantilla",
+		"/Users/ruben/Downloads/pandora_unizar/modulos/check_sficheros.pl",
+		"/Users/ruben/Downloads/pandora_unizar/modulos/pandora_red",
+		"/Users/ruben/Documents/102-uvtvieja/html/tpv2_sarteco.jsp",
+		"/Users/ruben/Documents/102-uvtvieja/html/sarteco.js",
+		"/Users/ruben/Documents/100-cmps/admincmps/index.php",
+		"/Users/ruben/Documents/102-uvtvieja/html/tpvko.jsp",
+		"/Users/ruben/Documents/102-uvtvieja/html/tpvok.jsp",
+		"/Users/ruben/Documents/102-uvtvieja/html/tpv_sarteco.jsp",
+		"/Users/ruben/Documents/102-uvtvieja/html/guvt/guvt_inscripcion.jsp",
+		"/Users/ruben/Documents/102-uvtvieja/html/sarteco.css",
+		"/Users/ruben/Documents/102-uvtvieja/html/WEB-INF/decorators.xml",
+		"/Users/ruben/Documents/100-cmps/admincmps/style.css",
+		"/Users/ruben/Documents/100-cmps/admincmps/mail.php",
+		"/Users/ruben/Documents/102-uvtvieja/html/novale.html",
+		"/Users/ruben/Documents/102-uvtvieja/html/novale.js",
+		"/Users/ruben/Documents/102-uvtvieja/html/custom.css",
+		"/Users/ruben/Documents/102-uvtvieja/html/js/validacion.js",
+		"/Users/ruben/Documents/102-uvtvieja/html/tpv2.jsp",
+		"/Users/ruben/Documents/104-teruel-aux/apl/enviar_form_mail_utf8.jsp",
+		"/Users/ruben/Documents/100-cmps/formulario_reservas.html",
+		"/Users/ruben/Downloads/novale.html",
+		"/Users/ruben/Desktop/Tmp.txt",
+		"/Users/ruben/Documents/101-gesport/edit_entry_handler.php",
+		"/Users/ruben/Documents/102-uvtvieja/envio_formulario.jsp",
+		"/Users/ruben/Documents/101-gesport/wp-config.php",
+		"/Users/ruben/Documents/101-gesport/view_entry.php",
+		"/Users/ruben/Documents/101-gesport/wp-settings.php",
+		"/Users/ruben/Documents/101-gesport/edit_entry.php",
+		"/Users/ruben/Downloads/CONFIG INICIAL.txt",
+		"/Users/ruben/Dropbox/00-Docencia/BD2_16_17/Hoy/EjemploUniversidadPostgreSQL.sql",
+		"/Users/ruben/Documents/101-gesport/wp-config-sample.php",
+		"/Users/ruben/Documents/102-uvtvieja/html/formulario_cmps2011.jsp",
+		"/Volumes/IOMEGA_HDD/Documents/history-inventaop.sql",
+		"/Users/ruben/Documents/103-reservadeaulas/sube_imagen.php",
+		"/Users/ruben/Documents/102-uvtvieja/formulario_cmps2011.jsp",
+		"/Users/ruben/Documents/102-uvtvieja/colegio_mayor.html",
+		"/Users/ruben/Downloads/drive-download-20180309T072330Z-001/AutoIt/SecurityEx.au3",
+		"/Users/ruben/Downloads/drive-download-20180309T072330Z-001/crear_usuarios.sql",
+		"/Users/ruben/Downloads/drive-download-20180309T072330Z-001/AutoIt/Oracle-Launch.au3",
+		"/Users/ruben/Downloads/drive-download-20180309T072330Z-001/crear_practicas.ps1",
+		"/Users/ruben/Downloads/drive-download-20180309T072330Z-001/listener.ora",
+		"/Users/ruben/Downloads/drive-download-20180309T072330Z-001/tnsnames.ora",
+		"/Users/ruben/Downloads/drive-download-20180309T072330Z-001/bdCancion2.sql",
+		"/Users/ruben/Documents/Smart_Campus_2017/csjter",
+		"/Users/ruben/Documents/101-gesport/index.html"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
